@@ -1,0 +1,28 @@
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\Major Projects.exe
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\Major Projects.deps.json
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\Major Projects.runtimeconfig.json
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\Major Projects.dll
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\Major Projects.pdb
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Coding Projects\Major Projects\Major Projects\obj\Debug\net6.0\Major Projects.csproj.AssemblyReference.cache
+D:\Coding Projects\Major Projects\Major Projects\obj\Debug\net6.0\Major Projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Projects\Major Projects\Major Projects\obj\Debug\net6.0\Major Projects.AssemblyInfoInputs.cache
+D:\Coding Projects\Major Projects\Major Projects\obj\Debug\net6.0\Major Projects.AssemblyInfo.cs
+D:\Coding Projects\Major Projects\Major Projects\obj\Debug\net6.0\Major Projects.csproj.CoreCompileInputs.cache
+D:\Coding Projects\Major Projects\Major Projects\obj\Debug\net6.0\Major Projects.csproj.CopyComplete
+D:\Coding Projects\Major Projects\Major Projects\obj\Debug\net6.0\Major Projects.dll
+D:\Coding Projects\Major Projects\Major Projects\obj\Debug\net6.0\refint\Major Projects.dll
+D:\Coding Projects\Major Projects\Major Projects\obj\Debug\net6.0\Major Projects.pdb
+D:\Coding Projects\Major Projects\Major Projects\obj\Debug\net6.0\Major Projects.genruntimeconfig.cache
+D:\Coding Projects\Major Projects\Major Projects\obj\Debug\net6.0\ref\Major Projects.dll
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\Content\character.xnb
+D:\Coding Projects\Major Projects\Major Projects\obj\Debug\net6.0\Major Projects.sourcelink.json
+D:\Coding Projects\Major Projects\Major Projects\bin\Debug\net6.0\Content\Grass.xnb
