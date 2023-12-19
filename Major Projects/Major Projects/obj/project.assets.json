@@ -102,25 +102,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\AQ222695\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding Projects\\Major Projects\\Major Projects\\Major Projects.csproj",
+      "projectUniqueName": "C:\\Users\\AQ222695\\Source\\Repos\\MainProject\\Major Projects\\Major Projects\\Major Projects.csproj",
       "projectName": "Major Projects",
-      "projectPath": "D:\\Coding Projects\\Major Projects\\Major Projects\\Major Projects.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding Projects\\Major Projects\\Major Projects\\obj\\",
+      "projectPath": "C:\\Users\\AQ222695\\Source\\Repos\\MainProject\\Major Projects\\Major Projects\\Major Projects.csproj",
+      "packagesPath": "C:\\Users\\AQ222695\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AQ222695\\Source\\Repos\\MainProject\\Major Projects\\Major Projects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AQ222695\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -129,6 +127,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

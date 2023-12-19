@@ -1,8 +1,10 @@
 ﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Security.Principal;
 
 namespace Major_Projects
@@ -11,12 +13,14 @@ namespace Major_Projects
     {
        GraphicsDeviceManager graphics;
        SpriteBatch _spriteBatch;
+       //Background _Background;
 
-        Random rnd = new Random();  //Creating a random variable
+       Random rnd = new Random();  //Creating a random variable
 
-        Character _MainCharacter;     //Creating a new variable for the main controllable character
+       Character _MainCharacter;     //Creating a new variable for the main controllable character
 
-        List<Grass> platform = new List<Grass>();
+       List<Texture2D> Backgrounds = new List<Texture2D>();
+       List<Grass> platform = new List<Grass>();
 
        
 
@@ -46,6 +50,8 @@ namespace Major_Projects
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
+            Backgrounds.Add(Content.Load<Texture2D>("Background"));
+                      
             int rnd_x = rnd.Next(1,500);   //Creating random values so the sprite can spawn at a random part of the game screen
             int rnd_y = rnd.Next(1,500);
 
@@ -95,13 +101,6 @@ namespace Major_Projects
                     _MainCharacter.CharacterStopped = true;
                 }
             }
-            
-            
-            
-
-
-
-
         }
 
         protected override void Draw(GameTime gameTime)
@@ -109,8 +108,11 @@ namespace Major_Projects
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             _spriteBatch.Begin();
+            Rectangle newRect = new Rectangle(0, 0, 2000, 1000);
+            _MainCharacter.Draw(_spriteBatch);  //Allows for the sprite to be physcially drawn onto the game space
 
-            _MainCharacter.Draw(_spriteBatch);  //Allows for the sprite to be physcially drawn onto the game space    
+            _spriteBatch.Draw(Backgrounds[0], newRect, Color.White);
+            
 
             foreach(Grass Item in platform)
             {
